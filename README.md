@@ -29,6 +29,8 @@ A collection of Power BI projects demonstrating data visualization and analytics
 
 ---
 
+**[→ View Full Project  Details (README)](./Datajobs%202/README.md)**
+
 ## Data Jobs Dashboard 1.0 (Single-Page Focus)
 
 | Dark Mode | Light Mode |
@@ -51,6 +53,9 @@ A collection of Power BI projects demonstrating data visualization and analytics
 - Report Performance Considerations
 
 ---
+
+**[→ View Full Project 1.0 Details (README)](./Datajobs%202/README.md)**
+
 
 ## About This Portfolio
 
