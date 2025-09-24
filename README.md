@@ -7,7 +7,9 @@ A collection of Power BI projects demonstrating data visualization and analytics
 ### Data Jobs Dashboard 
 *Comprehensive multi-page analysis*
 
-![V1 Dashboard](images/Project%201%20Page%201.png)
+| DashBoard | Job Drill Through |
+|-----------|------------|
+| ![Dashboard Dark Mode](/Images/Project%201%20Page%201.png) | ![Dashboard Light Mode](/Images/Project%201%20Page%202.png) |
 
 [→ View Interactive Dashboard on Power BI Service]()
 
